@@ -29,4 +29,6 @@ You need a modern web browser and an internet connection.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/calculator.git
+   git clone https://github.com/Rahul2512002/Javascript-Calculator.git
+
+
