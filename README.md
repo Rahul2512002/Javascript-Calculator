@@ -15,7 +15,7 @@ You can check out the live demo of the calculator [[https://pfmzf4x7rlgozhmnzzcn
 
 ## Screenshot
 
-![Calculator Screenshot](./screenshot.png) (Include a screenshot of your calculator UI)
+![Screenshot.png](./screenshot.png) (Include a screenshot of your calculator UI)
 
 ## Installation
 
