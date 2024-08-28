@@ -15,7 +15,7 @@ You can check out the live demo of the calculator [[https://pfmzf4x7rlgozhmnzzcn
 
 ## Screenshot
 
-![https://ibb.co/YpwWFP6](./screenshot.png) (Include a screenshot of your calculator UI)
+![https://drive.google.com/file/d/1XotiApM8eZUi7D6vkJPUmNRz_IvjVlRf/view](./screenshot.png) (Include a screenshot of your calculator UI)
 
 ## Installation
 
