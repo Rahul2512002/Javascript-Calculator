@@ -11,7 +11,7 @@ A simple and functional calculator built with HTML, CSS, and JavaScript. This ca
 
 ## Demo
 
-You can check out the live demo of the calculator [https://programforalltouseforfree.on.drv.tw/Calculator/Calculator.html].
+You can check out the live demo of the calculator [https://programforalltouseforfree.on.drv.tw/Calculator/Calculator.html]
 
 ## Screenshot
 
@@ -30,5 +30,3 @@ You need a modern web browser and an internet connection.
 1. Clone the repository:
    ```bash
    git clone https://github.com/Rahul2512002/Javascript-Calculator.git
-
-
