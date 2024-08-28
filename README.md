@@ -15,7 +15,7 @@ You can check out the live demo of the calculator [https://programforalltousefor
 
 ## Screenshot
 
-![https://drive.google.com/file/d/1XotiApM8eZUi7D6vkJPUmNRz_IvjVlRf/view]
+[https://drive.google.com/file/d/1XotiApM8eZUi7D6vkJPUmNRz_IvjVlRf/view]
 
 ## Installation
 
